@@ -1,0 +1,6 @@
+framework module Pods_hfa_app {
+  umbrella header "Pods-hfa-app-umbrella.h"
+
+  export *
+  module * { export * }
+}
